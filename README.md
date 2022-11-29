@@ -1,4 +1,4 @@
-# ICP_C-_Project_293
+# ICP_Cplus_Project
 A C++ program that generates the route taken to travel from one country to another
 
 RouteFinder
