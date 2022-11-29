@@ -1,3 +1,6 @@
+# ICP_Cplus_Project
+A C++ program that generates the route taken to travel from one country to another
+
 RouteFinder
 =========
 C++ version 14
@@ -63,3 +66,5 @@ Note - To make any changes to the csv filenames, edit them in the defintion of t
 and thus might take long to run sometimes.
 3. MAKE SURE THERE IS NO SPACE BETWEEN THE COMMA THAT SEPARATES A CITY AND A COUNTRY.
 e.g make sure your input is not like "Accra, Ghana". Instead it should be "Accra,Ghana"
+4. Make sure to put the source files (airport,airline,routes & testcase) in the proper directory. For clion, the directory for input files is the c-make debug folder.
+
