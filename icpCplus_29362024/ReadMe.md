@@ -2,6 +2,8 @@ RouteFinder
 =========
 C++ version 14
 
+CMakeVersion 3.22
+
 A C++ program that takes in a text file containing the Start and Destination and returns
 a solution path as a txt file.<br/>
 Since this uses a Breadth-First Search, it always finds the shortest route in terms of number of flights !
